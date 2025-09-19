@@ -51,4 +51,4 @@ MIT — see license.
 
 ## Credit & Citation
 
-N/A
+[Eymeric65/py-gear](https://github.com/Eymeric65/py-gear)
